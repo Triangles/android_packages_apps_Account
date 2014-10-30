@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">CyanogenMod 계정</string>
+  <string name="app_name">트라이앵글 계정</string>
   <string name="next">다음</string>
   <string name="continue_label">계속</string>
   <string name="prev">이전</string>
@@ -33,7 +33,7 @@
   <string name="setup_complete">설정 완료</string>
   <string name="setup_complete_summary" product="tablet">축하합니다! 태블릿을 사용할 준비가 되었습니다.</string>
   <string name="setup_complete_summary" product="default">축하합니다! 휴대전화를 사용할 준비가 되었습니다.</string>
-  <string name="setup_welcome">CyanogenMod에 오신 것을 환영합니다</string>
+  <string name="setup_welcome">트라이앵글 오신 것을 환영합니다</string>
   <string name="setup_welcome_summary" product="tablet">태블릿 설정을 시작하려면, 사용할 언어를 선택하고 계속해주십시오.</string>
   <string name="setup_welcome_summary" product="default">휴대전화 설정을 시작하려면, 사용할 언어를 선택하고 계속해주십시오.</string>
   <string name="setup_cmaccount">CyanogenMod 계정 설정</string>
