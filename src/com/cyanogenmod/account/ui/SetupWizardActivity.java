@@ -135,6 +135,8 @@ public class SetupWizardActivity extends Activity implements SetupDataCallbacks,
         });
         onPageTreeChanged();
         removeUnNeededPages();
+        Page deletepage = mPageList.findPage(R.string.setup_cmaccount);
+        removeSetupPage(deletepage, false);
     }
 
     @Override
